@@ -49,9 +49,9 @@ public class iOSstringHandler {
 	}
 	public static void main(String[] args) throws IOException
 	{
-//		loadStringFile("/Users/macmini/Desktop/test.strings");
+		loadStringFile("/Users/macmini/Desktop/test.strings");
 //		test();
-		testFilter();
+//		testFilter();
 	}
 	
 	
